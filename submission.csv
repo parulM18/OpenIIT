@@ -16,12 +16,12 @@ id,popularity
 9127,average
 11682,low
 5028,low
-7138,very high
+7138,high
 681,low
 9682,average
-10085,low
+10085,average
 5671,low
-15326,high
+15326,very low
 9477,low
 2870,very low
 4653,very low
@@ -31,7 +31,7 @@ id,popularity
 10038,very low
 10606,very low
 6303,average
-9005,low
+9005,average
 10373,average
 8708,low
 4090,very low
@@ -41,12 +41,12 @@ id,popularity
 7289,high
 7716,average
 13833,low
-4320,low
+4320,very low
 1507,low
 8777,high
 9319,average
 1962,high
-13370,high
+13370,very low
 2494,low
 9321,low
 4188,high
@@ -56,7 +56,7 @@ id,popularity
 12030,very low
 3331,low
 3543,low
-4216,low
+4216,average
 7160,very low
 7709,low
 11942,low
@@ -78,9 +78,9 @@ id,popularity
 2239,very low
 7795,low
 15869,low
-4482,low
+4482,very low
 12650,low
-15649,low
+15649,average
 7900,average
 13055,high
 15630,average
@@ -96,7 +96,7 @@ id,popularity
 4083,low
 2016,low
 5072,very low
-13562,average
+13562,low
 10532,very low
 5957,high
 12014,average
@@ -126,7 +126,7 @@ id,popularity
 10095,average
 12351,high
 10889,average
-643,low
+643,very low
 6046,low
 10503,very low
 5353,high
@@ -157,24 +157,24 @@ id,popularity
 1088,low
 12259,average
 7934,very low
-15170,low
+15170,very low
 15922,high
 15004,low
 10544,average
 884,very low
-12158,low
+12158,very low
 3455,high
 4979,high
 7316,high
 2772,very low
-635,high
+635,average
 9137,average
 24,very low
 9220,low
 13086,low
-13010,average
+13010,high
 14528,low
-13579,average
+13579,low
 3848,very low
 337,high
 13168,very low
@@ -184,12 +184,12 @@ id,popularity
 4347,low
 12230,very low
 9474,very low
-3368,high
+3368,very low
 12524,low
 4846,very low
 3850,low
 8486,high
-5853,low
+5853,average
 7667,high
 13581,high
 10899,average
@@ -198,7 +198,7 @@ id,popularity
 2271,very low
 4541,low
 14876,very low
-2352,very low
+2352,average
 4489,average
 10125,low
 12195,low
@@ -210,18 +210,18 @@ id,popularity
 8476,average
 15865,low
 8074,very low
-485,low
+485,average
 13953,very low
 12521,average
 8891,high
-688,average
+688,very low
 1336,high
 9833,very low
 1686,very low
-848,low
+848,high
 2376,very low
 12499,very high
-5339,average
+5339,high
 2797,low
 12386,very low
 11089,average
@@ -230,12 +230,12 @@ id,popularity
 11675,average
 6994,very low
 11452,very low
-8243,low
+8243,average
 7898,high
 3087,very low
 11159,high
 4205,very low
-4295,high
+4295,average
 4296,very low
 11223,average
 13331,very low
@@ -244,20 +244,20 @@ id,popularity
 5256,average
 1263,very low
 13864,very low
-10756,very low
+10756,high
 15774,very low
 8921,low
 14697,average
 2114,very low
-5657,low
-7563,very high
-15496,very low
+5657,average
+7563,high
+15496,high
 6530,low
-13726,high
+13726,average
 6989,average
 6235,average
 14055,high
-2563,average
+2563,low
 11601,average
 1849,high
 12599,very low
@@ -276,7 +276,7 @@ id,popularity
 5054,average
 14880,very low
 2696,high
-4801,low
+4801,average
 5997,low
 4360,very low
 10545,high
@@ -293,7 +293,7 @@ id,popularity
 14959,low
 3537,very low
 5973,average
-4866,average
+4866,high
 9937,high
 12564,low
 8847,high
@@ -312,33 +312,33 @@ id,popularity
 1301,low
 14160,average
 13877,very low
-11415,high
+11415,very high
 4571,high
 2474,average
 2629,very low
 13709,low
 13037,high
 10002,very low
-1957,very low
+1957,low
 10924,average
 3348,very low
-4316,average
+4316,high
 12636,low
 11830,low
 14047,very low
 5274,very low
 618,low
 5182,low
-2074,average
+2074,high
 15440,very low
 11167,high
-13882,very low
+13882,high
 8707,average
 12160,high
 15526,low
 13844,low
 10953,low
-6286,low
+6286,average
 1634,average
 9417,average
 6585,high
@@ -361,14 +361,14 @@ id,popularity
 5966,high
 12276,high
 5961,very low
-7743,average
+7743,high
 3273,very low
 12510,very low
 12253,average
 6548,very low
 8525,high
 14770,low
-10195,high
+10195,very low
 14716,low
 13599,average
 6699,high
@@ -376,18 +376,18 @@ id,popularity
 12382,low
 180,very low
 13783,very high
-4039,high
+4039,very low
 14803,average
 14098,very low
 7337,very low
 5747,high
 15239,high
 1050,high
-14641,average
+14641,high
 5070,low
 11419,low
 10204,very low
-3824,average
+3824,very low
 5498,low
 6524,low
 15356,very low
@@ -403,7 +403,7 @@ id,popularity
 1660,low
 10399,low
 2518,very low
-10598,high
+10598,average
 5117,low
 1970,very low
 9677,very low
@@ -415,22 +415,22 @@ id,popularity
 6543,average
 2238,high
 5899,high
-5628,average
+5628,high
 4620,very low
 752,average
 8106,very low
 11835,high
-9043,low
+9043,average
 11880,low
 13750,high
 3244,low
-12420,low
+12420,average
 12759,very low
 1080,high
 6630,average
 14124,very low
 12371,average
-15981,average
+15981,low
 1035,very low
 6939,low
 5617,very low
@@ -440,10 +440,10 @@ id,popularity
 15504,low
 3075,average
 12269,average
-12163,average
+12163,low
 8259,low
 13008,very low
-13405,average
+13405,high
 768,low
 11982,high
 15944,low
@@ -483,13 +483,13 @@ id,popularity
 8111,very low
 6597,very low
 12797,low
-4522,low
+4522,average
 4334,very low
 7158,low
 468,very low
 310,very low
 12491,average
-830,very low
+830,low
 7777,average
 6509,very low
 3311,very low
@@ -502,21 +502,21 @@ id,popularity
 4125,low
 13254,low
 5288,very low
-1418,average
+1418,low
 1291,high
 2946,low
 13473,very low
 15068,very low
 4575,very low
 1718,low
-13754,high
+13754,average
 12946,low
 12498,low
 3154,very low
-8610,very low
-15173,low
+8610,low
+15173,average
 8006,low
-11218,very low
+11218,average
 15553,very low
 4254,high
 2817,low
@@ -524,15 +524,15 @@ id,popularity
 7151,low
 7357,low
 1691,high
-4433,low
+4433,average
 7209,very low
 9706,high
 2517,low
 9215,low
-13167,average
+13167,high
 5236,high
 10368,low
-15057,high
+15057,average
 4930,low
 16036,very low
 4491,low
@@ -548,13 +548,13 @@ id,popularity
 4151,high
 11755,low
 16006,average
-5844,average
+5844,low
 7369,low
 14170,low
 7470,very low
 9030,low
 13280,average
-14816,low
+14816,average
 3749,average
 15171,high
 13487,very low
@@ -574,11 +574,11 @@ id,popularity
 16172,average
 13961,very low
 13673,average
-11837,average
+11837,high
 14935,average
-8823,average
+8823,low
 13129,very low
-945,high
+945,very low
 1314,average
 7135,low
 3572,very low
@@ -598,7 +598,7 @@ id,popularity
 6586,low
 7354,low
 2323,very low
-14863,high
+14863,average
 6686,low
 9584,high
 2536,high
@@ -606,14 +606,14 @@ id,popularity
 13137,average
 3715,high
 10823,high
-15372,very low
+15372,average
 15379,very low
 5575,low
 14978,very low
 7145,average
 2079,very low
 10854,low
-9557,very low
+9557,average
 8657,average
 5912,very low
 13567,very low
@@ -626,12 +626,12 @@ id,popularity
 5392,average
 13375,low
 2938,low
-6809,low
+6809,average
 10670,low
-15121,low
+15121,very low
 5324,low
 7668,high
-5765,low
+5765,high
 542,average
 42,high
 6079,high
@@ -639,7 +639,7 @@ id,popularity
 10731,very low
 5627,low
 10108,high
-11453,very low
+11453,low
 13031,low
 5096,average
 14814,very low
@@ -647,7 +647,7 @@ id,popularity
 1205,very low
 11364,very low
 14852,very low
-3793,average
+3793,high
 15319,very low
 4339,very low
 2533,very low
@@ -669,7 +669,7 @@ id,popularity
 409,low
 15209,average
 10018,low
-5933,very low
+5933,average
 9671,very low
 2637,high
 6114,very low
@@ -708,17 +708,17 @@ id,popularity
 4530,high
 3503,very low
 5527,average
-13598,low
+13598,average
 14199,low
 13305,very low
 4098,average
 7059,low
 2961,average
 14380,high
-3589,average
+3589,low
 12391,very low
 7417,average
-10036,low
+10036,very low
 6762,high
 11616,high
 6157,very high
@@ -736,22 +736,22 @@ id,popularity
 1505,high
 5320,low
 9182,low
-10634,very low
+10634,low
 4578,very low
 3739,low
 4104,average
 4825,low
 12157,average
 889,very low
-12001,low
+12001,average
 11014,low
 16199,average
 6280,high
 9491,low
 12308,high
-15491,very low
+15491,average
 2038,very low
-6271,low
+6271,average
 9649,average
 11057,average
 3652,high
@@ -774,17 +774,17 @@ id,popularity
 11727,high
 8027,average
 10806,average
-16187,low
+16187,average
 14674,very low
 9169,average
 10156,low
-11107,low
+11107,very low
 4684,very low
 15435,very high
 14059,average
 13918,average
 9149,low
-6518,low
+6518,average
 9896,low
 6934,low
 14448,very low
@@ -794,13 +794,13 @@ id,popularity
 8124,average
 13546,very low
 4954,average
-8360,high
-10949,very high
+8360,average
+10949,high
 522,low
 2179,very low
 11382,low
 7435,very low
-6803,very high
+6803,high
 481,low
 3160,very low
 5967,very low
@@ -809,17 +809,17 @@ id,popularity
 16088,high
 3827,low
 8868,low
-7319,low
+7319,average
 1614,very low
 11904,very low
 6609,average
 14155,very low
 10077,very low
-8899,high
+8899,average
 9289,low
 1383,very low
 14309,average
-13245,average
+13245,low
 10818,very low
 9739,high
 9930,very low
@@ -830,14 +830,14 @@ id,popularity
 4945,low
 2582,high
 15737,high
-13481,low
+13481,average
 15818,very low
 1126,very low
 3074,high
 14096,very low
 1315,low
 8896,very low
-36,average
+36,low
 1862,very low
 336,low
 9818,very low
@@ -846,21 +846,21 @@ id,popularity
 2325,very low
 15631,low
 11139,high
-1164,low
+1164,average
 3891,average
 6198,low
 8269,high
 15152,very low
 443,high
-2126,high
-12591,average
+2126,average
+12591,high
 7873,low
 9822,average
 4712,average
 5597,high
 11519,low
 12372,average
-3440,very low
+3440,low
 2644,high
 1052,low
 8649,very low
@@ -886,10 +886,10 @@ id,popularity
 5058,very low
 10703,very low
 11589,very low
-16089,low
+16089,average
 7708,average
 11302,low
-15489,very low
+15489,low
 7246,very low
 13593,low
 10549,low
@@ -898,7 +898,7 @@ id,popularity
 11477,low
 7886,low
 12645,high
-5744,high
+5744,very high
 436,very low
 2208,low
 7902,very low
@@ -908,11 +908,11 @@ id,popularity
 3863,low
 13459,low
 4047,average
-7844,average
+7844,high
 292,high
 4765,very low
 4018,high
-11084,high
+11084,very low
 4833,average
 1490,high
 13186,high
@@ -922,7 +922,7 @@ id,popularity
 12883,low
 15851,average
 6459,very low
-1677,low
+1677,very low
 11052,high
 7622,low
 9546,low
@@ -933,7 +933,7 @@ id,popularity
 3663,average
 15542,very low
 11461,very low
-3018,average
+3018,high
 259,very low
 5450,high
 7732,very low
@@ -949,7 +949,7 @@ id,popularity
 4082,very low
 11538,average
 13511,low
-1017,very low
+1017,low
 4458,low
 15985,high
 7201,high
@@ -965,7 +965,7 @@ id,popularity
 5164,very low
 3021,very low
 13335,very low
-4948,high
+4948,average
 3990,average
 3360,very low
 15593,very low
@@ -983,13 +983,13 @@ id,popularity
 14882,average
 5724,very low
 15645,average
-14902,low
-12018,very high
+14902,very low
+12018,high
 7520,low
 3310,very low
 11002,average
 3103,average
-4847,high
+4847,average
 2619,low
 14234,low
 156,very low
@@ -1015,11 +1015,11 @@ id,popularity
 13081,very low
 12069,very low
 13233,high
-7728,average
+7728,low
 425,low
 14005,average
 1022,average
-12424,low
+12424,very low
 14417,very low
 13879,very low
 5774,average
@@ -1031,7 +1031,7 @@ id,popularity
 6685,low
 8950,very low
 10338,very low
-8143,average
+8143,low
 2591,high
 10239,high
 4922,low
@@ -1041,7 +1041,7 @@ id,popularity
 9206,very low
 8477,average
 5517,average
-7683,average
+7683,high
 13203,very low
 13079,high
 6062,average
@@ -1069,9 +1069,9 @@ id,popularity
 1305,low
 2012,low
 15246,average
-7979,low
+7979,very low
 15964,very low
-9434,very high
+9434,high
 15008,low
 1972,very low
 7579,average
@@ -1085,25 +1085,25 @@ id,popularity
 3017,average
 15550,very low
 3491,average
-8633,average
-8634,average
+8633,low
+8634,high
 12624,very low
 11083,very low
 4155,very low
 6065,high
 1959,very low
-15777,low
-10790,average
+15777,average
+10790,high
 8738,very low
 10981,low
 923,very low
 2164,low
-5818,high
+5818,average
 10099,low
 12640,very low
 9205,very low
-9775,low
-10827,low
+9775,average
+10827,very low
 6885,very low
 12914,very low
 8571,low
@@ -1114,11 +1114,11 @@ id,popularity
 390,average
 663,very low
 6948,very low
-11330,low
+11330,very low
 10652,low
 4630,low
 14242,very high
-15274,very low
+15274,low
 12714,average
 87,low
 7294,average
@@ -1145,8 +1145,8 @@ id,popularity
 3356,high
 3937,average
 14026,low
-13272,average
-8826,high
+13272,very low
+8826,average
 315,very low
 6784,very low
 342,low
@@ -1156,8 +1156,8 @@ id,popularity
 9920,high
 14958,high
 14627,average
-10824,low
-13030,low
+10824,very low
+13030,very low
 14100,low
 3881,low
 5989,high
@@ -1167,7 +1167,7 @@ id,popularity
 12050,very low
 15904,very low
 5852,average
-2480,average
+2480,high
 10956,high
 2966,average
 3658,very high
@@ -1180,34 +1180,34 @@ id,popularity
 7957,very low
 7217,very low
 9334,very low
-13138,low
-16209,high
+13138,average
+16209,very low
 11467,very low
 78,average
 10563,very low
-4278,average
+4278,high
 7775,low
 2550,low
 13698,very low
 2600,very low
 4792,very low
-16132,average
+16132,low
 11037,very low
-5829,low
+5829,average
 1960,low
 10350,very low
 8998,low
-15693,very low
+15693,low
 3493,very low
 8462,average
 1357,average
-11593,low
+11593,very low
 7288,very low
 10710,low
 13934,low
 14463,very low
 7172,very low
-14546,very low
+14546,low
 12692,low
 1352,very low
 10535,high
@@ -1232,22 +1232,22 @@ id,popularity
 4444,low
 6915,low
 3454,low
-2093,low
+2093,average
 9382,low
 12054,low
 7409,high
-5870,high
+5870,very low
 2163,average
 6732,very low
 7523,average
-12745,very low
+12745,low
 6829,low
 13325,high
 2139,low
 4324,high
 2286,very low
 7012,low
-1779,low
+1779,average
 12087,very low
 2510,low
 7069,low
@@ -1255,7 +1255,7 @@ id,popularity
 13729,average
 12642,average
 1635,high
-14774,average
+14774,high
 14144,low
 12365,low
 305,low
@@ -1336,14 +1336,14 @@ id,popularity
 13886,high
 11348,low
 2293,very low
-1298,very low
+1298,high
 10049,average
 4674,very low
 15030,low
 3839,very low
 5886,low
 15114,average
-6763,very low
+6763,low
 1949,very low
 7280,high
 10100,average
@@ -1354,7 +1354,7 @@ id,popularity
 3529,average
 6645,high
 6370,low
-12033,very low
+12033,low
 158,low
 294,very low
 9420,high
@@ -1362,7 +1362,7 @@ id,popularity
 725,average
 1803,average
 6796,average
-9194,average
+9194,low
 1805,low
 13476,low
 15378,high
@@ -1379,14 +1379,14 @@ id,popularity
 7981,very low
 7414,average
 5610,low
-2914,high
+2914,average
 13165,very low
 4342,low
 5253,high
 14739,low
 6372,high
 1769,average
-7206,low
+7206,very low
 5600,average
 330,low
 2522,average
@@ -1401,7 +1401,7 @@ id,popularity
 14108,high
 13446,high
 12422,average
-246,low
+246,average
 2834,high
 9401,very low
 4397,low
@@ -1409,20 +1409,20 @@ id,popularity
 13227,very low
 6189,low
 15136,very low
-14419,low
+14419,average
 8007,low
 6123,low
-1647,very low
+1647,high
 8147,low
 14735,low
 7281,very low
 10829,average
 1491,very low
 15592,average
-10748,high
+10748,very low
 160,low
 6244,high
-268,high
+268,average
 12846,average
 14911,low
 2051,average
@@ -1435,14 +1435,14 @@ id,popularity
 7504,average
 10995,very low
 13424,very low
-15820,low
+15820,average
 11903,low
 4084,low
 6471,very low
-6764,very low
+6764,high
 2628,low
 10391,high
-5224,low
+5224,average
 3666,low
 15074,very low
 7989,low
@@ -1453,11 +1453,11 @@ id,popularity
 9170,high
 12536,low
 15622,average
-3840,low
+3840,average
 10054,high
 231,low
 10572,low
-11998,very low
+11998,low
 14215,very low
 7270,low
 6970,very low
@@ -1468,14 +1468,14 @@ id,popularity
 2611,very low
 14948,low
 15826,average
-15651,high
-3618,average
+15651,average
+3618,very low
 13301,low
 2085,low
 10197,very low
 5620,low
 1663,high
-1294,very low
+1294,high
 9029,high
 13925,average
 15764,average
@@ -1483,21 +1483,21 @@ id,popularity
 5055,average
 10730,very low
 15907,high
-6395,average
-9852,low
+6395,low
+9852,very low
 13054,high
 5335,high
 8536,high
 13576,low
 6075,average
 10180,high
-15822,very high
-1796,low
+15822,high
+1796,average
 6352,very low
 1947,very low
 6780,very low
 6670,low
-1260,high
+1260,very low
 7659,very low
 11779,high
 8882,low
@@ -1527,7 +1527,7 @@ id,popularity
 1326,low
 12615,very low
 10516,high
-15513,low
+15513,average
 13045,very low
 7104,average
 14195,low
@@ -1544,13 +1544,13 @@ id,popularity
 10406,average
 4065,low
 1753,average
-8203,low
+8203,very low
 15574,average
 2033,low
 16075,average
 1639,very low
 14929,high
-8855,average
+8855,high
 10388,very low
 12235,very low
 1519,average
@@ -1565,7 +1565,7 @@ id,popularity
 4197,high
 10037,low
 891,low
-591,very low
+591,high
 15244,very low
 6788,average
 11861,low
@@ -1587,35 +1587,35 @@ id,popularity
 6961,low
 9353,average
 9601,low
-14483,low
+14483,average
 6310,very low
 11910,high
-5928,average
+5928,high
 13692,very low
 11936,high
-14688,low
+14688,average
 738,very low
 11378,very low
 14629,very low
-11469,very low
+11469,low
 15529,high
 2694,average
-13855,low
+13855,average
 14208,average
 12056,very low
 14557,very low
 1563,low
 4681,average
 7574,low
-1276,low
-7008,average
+1276,average
+7008,very low
 4382,low
 11118,high
 13557,high
 10538,high
 244,average
 15033,very low
-6622,high
+6622,very low
 16152,very low
 7056,high
 16124,very low
@@ -1634,18 +1634,18 @@ id,popularity
 14418,high
 466,very low
 132,high
-5316,low
-11064,low
+5316,very low
+11064,average
 2840,low
 431,high
 1869,low
 12590,average
 14469,very low
 7408,average
-5676,low
+5676,very low
 3962,very low
-8979,very low
-13549,average
+8979,average
+13549,low
 11106,very low
 10512,very low
 3816,average
@@ -1662,9 +1662,9 @@ id,popularity
 8136,average
 13500,high
 4133,low
-14257,very low
+14257,low
 10928,very low
-9028,high
+9028,very low
 4369,very low
 7163,low
 7157,low
@@ -1674,7 +1674,7 @@ id,popularity
 13628,low
 10636,high
 10733,average
-11357,very low
+11357,high
 13578,very low
 1222,low
 6013,high
@@ -1692,8 +1692,8 @@ id,popularity
 2120,low
 7546,average
 5105,very high
-15552,low
-1968,high
+15552,average
+1968,very low
 4512,low
 15019,low
 11688,low
@@ -1703,16 +1703,16 @@ id,popularity
 9168,low
 12695,very low
 12180,very low
-10970,high
+10970,very high
 9638,high
 2067,very low
 8357,low
 14568,average
 4066,low
-9761,low
+9761,average
 14791,average
 7946,very low
-10591,very low
+10591,high
 12317,high
 1652,very low
 16068,high
@@ -1727,13 +1727,13 @@ id,popularity
 2,low
 10276,low
 2492,low
-15692,very low
-5603,low
+15692,low
+5603,average
 15095,high
 2883,low
 11134,very high
 9862,high
-3015,very low
+3015,high
 13995,very low
 6666,high
 9536,average
@@ -1747,7 +1747,7 @@ id,popularity
 8445,very low
 9665,average
 15361,high
-14019,average
+14019,high
 10456,very low
 15799,very low
 14571,very low
@@ -1758,8 +1758,8 @@ id,popularity
 12882,very low
 12343,very low
 13970,very high
-3622,low
-8787,low
+3622,average
+8787,very low
 5237,very low
 12731,low
 14960,low
@@ -1776,9 +1776,9 @@ id,popularity
 13948,low
 3975,very low
 5945,low
-6141,average
+6141,low
 2191,low
-7967,average
+7967,high
 4627,average
 11641,high
 2180,average
@@ -1793,25 +1793,25 @@ id,popularity
 11710,very low
 1220,high
 3401,high
-9995,low
+9995,very low
 13721,low
 290,low
 3532,very low
 15167,high
-10548,very low
+10548,high
 14752,low
-14007,very low
-11287,very low
-7550,high
+14007,high
+11287,low
+7550,very high
 9759,low
-14795,average
+14795,high
 10777,very high
 7362,high
 13681,low
 5767,low
 12066,average
 2105,very low
-4986,low
+4986,average
 9516,high
 1506,low
 8412,very low
@@ -1822,7 +1822,7 @@ id,popularity
 1258,average
 3468,low
 10045,low
-5849,low
+5849,very low
 10826,low
 12219,low
 14939,very low
@@ -1858,7 +1858,7 @@ id,popularity
 7970,low
 616,very low
 4337,low
-3155,high
+3155,average
 13589,average
 2087,low
 4683,low
@@ -1894,7 +1894,7 @@ id,popularity
 11775,very low
 11229,low
 13296,low
-8292,average
+8292,high
 3679,high
 3253,high
 4981,low
@@ -1916,7 +1916,7 @@ id,popularity
 7310,low
 11474,very low
 2445,very low
-6425,low
+6425,average
 10357,very low
 9655,low
 11565,very low
@@ -1943,7 +1943,7 @@ id,popularity
 12826,average
 14721,high
 14747,low
-11129,average
+11129,high
 2315,high
 15007,average
 10875,very low
@@ -1960,10 +1960,10 @@ id,popularity
 13586,average
 5044,high
 8158,high
-998,low
+998,average
 7084,high
 10381,low
-804,low
+804,very low
 3246,high
 9035,very low
 7875,very low
@@ -1981,13 +1981,13 @@ id,popularity
 8973,very low
 5226,low
 7877,high
-8971,very low
+8971,high
 11176,low
 6119,average
 1408,low
 4904,very low
 4677,low
-15716,low
+15716,average
 15261,low
 15453,very low
 16090,very low
@@ -1995,10 +1995,10 @@ id,popularity
 532,low
 11157,high
 16093,high
-10181,average
+10181,low
 2244,average
 7745,very low
-7375,low
+7375,average
 5623,low
 15445,very low
 9046,average
@@ -2010,23 +2010,23 @@ id,popularity
 899,average
 9332,low
 12659,very low
-1351,average
+1351,high
 6245,low
 11604,very low
 8799,very low
 14881,low
-13181,very low
+13181,low
 904,high
 13166,average
 10755,high
 6044,low
 14341,very low
-3137,low
+3137,average
 14314,very low
 9278,low
 12339,high
 10458,very low
-2912,low
+2912,average
 5745,very low
 585,very low
 9,very low
@@ -2035,7 +2035,7 @@ id,popularity
 13521,low
 9673,high
 10001,average
-7605,very low
+7605,low
 922,very low
 14357,low
 14266,high
@@ -2051,7 +2051,7 @@ id,popularity
 3221,low
 10417,low
 6978,low
-13797,low
+13797,average
 2314,very low
 12345,very low
 11770,very low
@@ -2071,38 +2071,38 @@ id,popularity
 13412,average
 5366,high
 1460,very low
-1012,high
+1012,average
 11403,average
 6888,very low
 13964,low
 2091,low
 3858,low
 2717,high
-5025,very low
+5025,low
 5334,average
-12788,very low
-7406,low
+12788,low
+7406,average
 7611,high
 6277,very low
 7090,average
 6091,high
 11516,low
-2412,high
+2412,very low
 8284,average
 10346,very low
 9564,low
 4394,average
-16131,very low
+16131,low
 2771,high
 1158,average
 8348,low
 3922,high
 4069,very low
-3877,low
+3877,average
 5078,very low
 6498,average
 10214,very low
-10130,high
+10130,average
 590,very low
 817,low
 3220,average
@@ -2116,24 +2116,24 @@ id,popularity
 7849,high
 13479,average
 8323,high
-9064,very low
-2747,average
+9064,average
+2747,very low
 9535,low
 8703,very low
 13259,very low
-4341,high
+4341,average
 3806,low
 6644,very low
 8114,high
-12923,average
+12923,high
 2641,very low
 4877,very low
-6041,low
+6041,average
 6095,very low
 9556,low
 3647,very low
-15683,high
-7906,low
+15683,average
+7906,average
 14961,low
 6085,high
 15391,low
@@ -2142,9 +2142,9 @@ id,popularity
 8391,high
 1310,low
 14537,low
-14447,average
+14447,high
 2029,low
-2513,low
+2513,average
 9038,high
 7488,low
 4257,very low
@@ -2161,7 +2161,7 @@ id,popularity
 6314,average
 13811,very low
 1839,low
-10992,low
+10992,average
 15317,very low
 7901,low
 10740,low
@@ -2172,11 +2172,11 @@ id,popularity
 6418,low
 8641,very low
 9384,average
-14672,low
+14672,average
 9864,high
 11244,average
 1721,high
-11643,very low
+11643,low
 9069,low
 13978,average
 7930,very low
@@ -2190,11 +2190,11 @@ id,popularity
 15551,low
 2682,low
 4304,very low
-8905,high
+8905,very low
 3439,low
 14449,low
 2750,very high
-15607,very low
+15607,low
 2701,low
 2402,high
 12553,low
@@ -2210,15 +2210,15 @@ id,popularity
 6054,very low
 11310,high
 14246,very low
-5087,very low
+5087,high
 3262,high
 10770,low
 7134,low
 1369,low
 15464,very low
 659,low
-10982,low
-1632,average
+10982,average
+1632,high
 2850,low
 12707,low
 15371,average
@@ -2240,10 +2240,10 @@ id,popularity
 6919,high
 2343,very low
 6748,average
-8112,very low
+8112,low
 13372,high
 1659,very low
-3829,high
+3829,very high
 14769,high
 15202,high
 10713,high
@@ -2253,29 +2253,29 @@ id,popularity
 6698,low
 2198,high
 11226,low
-11072,high
+11072,average
 11595,low
 7805,low
-13304,very low
+13304,high
 554,very low
 5172,low
-5003,very low
+5003,low
 15740,low
 12810,low
 746,very high
 1200,average
 11256,low
-2592,very low
+2592,high
 1587,high
 7240,very low
 8671,high
 8363,average
 4052,average
 12295,very low
-5460,low
-2199,very low
+5460,average
+2199,high
 14719,high
-3123,high
+3123,average
 16118,very low
 8119,very low
 14028,low
@@ -2286,9 +2286,9 @@ id,popularity
 8724,low
 8764,very low
 5516,very low
-2755,low
+2755,very low
 4747,very low
-15438,high
+15438,very low
 382,high
 15133,low
 3655,low
@@ -2311,20 +2311,20 @@ id,popularity
 9768,very high
 11059,low
 2384,average
-6778,low
+6778,average
 8972,very low
 9644,low
 8473,average
-7836,low
+7836,average
 14361,average
-11030,very low
-12548,low
+11030,high
+12548,average
 2564,average
 4896,very low
-3568,low
+3568,very low
 2045,very low
 2171,high
-2462,average
+2462,high
 15642,high
 6435,very low
 980,average
@@ -2332,7 +2332,7 @@ id,popularity
 888,low
 9203,high
 11424,low
-7041,high
+7041,average
 12806,high
 12581,high
 411,very low
@@ -2340,7 +2340,7 @@ id,popularity
 5520,low
 3482,low
 9839,very low
-3095,low
+3095,very low
 1646,low
 15482,high
 2744,average
@@ -2353,9 +2353,9 @@ id,popularity
 5143,average
 5702,very low
 14238,average
-11380,low
+11380,average
 14352,average
-6880,low
+6880,average
 2684,very high
 10891,average
 14983,very low
@@ -2382,7 +2382,7 @@ id,popularity
 237,low
 12912,average
 5877,average
-978,average
+978,high
 10328,low
 4240,low
 13700,very low
@@ -2397,12 +2397,12 @@ id,popularity
 7388,high
 9076,low
 1788,high
-11809,average
+11809,low
 6233,very low
 2383,very low
 1427,high
 8746,low
-5278,low
+5278,average
 3668,average
 1037,very low
 3672,very low
@@ -2414,7 +2414,7 @@ id,popularity
 13396,average
 11692,low
 4605,high
-10807,average
+10807,low
 76,low
 7353,low
 9674,low
@@ -2423,10 +2423,10 @@ id,popularity
 16226,very low
 552,high
 9897,average
-11863,average
+11863,low
 9121,high
 8517,low
-7386,average
+7386,high
 3757,very low
 12400,very low
 11248,average
@@ -2439,18 +2439,18 @@ id,popularity
 7828,very low
 9433,low
 4864,low
-11855,low
+11855,average
 8519,low
 3173,very low
 3570,very low
-16027,low
+16027,high
 11514,very low
 7848,high
 14784,very low
 4675,very low
 12862,low
 7079,average
-15825,high
+15825,very high
 7393,high
 8126,very low
 15588,very low
@@ -2467,7 +2467,7 @@ id,popularity
 14544,high
 11211,low
 4598,low
-12559,very low
+12559,low
 25,low
 10201,average
 13944,very low
@@ -2477,14 +2477,14 @@ id,popularity
 15910,very low
 12236,high
 8437,high
-9985,average
+9985,low
 7469,low
 13751,low
 15725,low
 8750,low
-946,very low
+946,low
 10616,average
-12763,low
+12763,average
 7840,high
 6485,average
 13053,high
@@ -2499,26 +2499,26 @@ id,popularity
 7356,low
 2263,average
 5051,very low
-3223,high
+3223,very low
 5481,high
-12398,high
+12398,average
 16188,high
 11587,low
 384,low
 8844,average
 4451,high
 15183,low
-14567,high
-15277,very low
+14567,very low
+15277,high
 9460,high
 11715,low
 6392,low
 12764,very low
-950,average
+950,high
 6591,low
 12260,low
 1595,very low
-13219,high
+13219,very low
 7087,low
 4255,high
 1827,low
@@ -2526,12 +2526,12 @@ id,popularity
 7735,average
 15065,very low
 736,low
-6224,very low
+6224,average
 422,very low
 4910,average
 2146,very low
-13243,low
-14545,high
+13243,average
+14545,very low
 9508,low
 9024,average
 15862,low
@@ -2543,7 +2543,7 @@ id,popularity
 15913,average
 4635,low
 8393,low
-13184,low
+13184,average
 10843,high
 2416,low
 6854,low
@@ -2556,7 +2556,7 @@ id,popularity
 8682,low
 10677,average
 2381,average
-8874,low
+8874,average
 6258,very low
 1163,average
 6811,low
@@ -2573,26 +2573,26 @@ id,popularity
 3755,very low
 4853,very low
 2911,low
-6514,low
+6514,average
 12457,very low
 12040,average
 15461,high
 3098,low
-7999,low
+7999,very low
 1482,very low
 8631,very low
 13846,low
 15841,average
 12187,very low
-15739,average
-7188,low
+15739,low
+7188,average
 16100,very low
 15882,low
 3764,low
 8617,average
 8245,low
 8339,very low
-2455,very high
+2455,high
 10185,low
 13831,low
 7177,average
@@ -2601,7 +2601,7 @@ id,popularity
 10543,average
 5761,very low
 12585,very low
-9180,very low
+9180,low
 5429,low
 5057,average
 12369,average
@@ -2609,7 +2609,7 @@ id,popularity
 5914,low
 15511,low
 10904,average
-12095,high
+12095,very low
 6861,very low
 5336,high
 10382,low
@@ -2621,12 +2621,12 @@ id,popularity
 10211,high
 1287,low
 15125,average
-11022,high
+11022,very low
 6284,average
-2023,low
+2023,average
 12523,high
 6869,high
-2372,very high
+2372,high
 13837,very low
 11416,low
 10890,very low
@@ -2652,11 +2652,11 @@ id,popularity
 9973,high
 6403,high
 1879,low
-3620,average
+3620,high
 15668,very low
 8085,very low
 15194,very low
-1953,very low
+1953,average
 5258,low
 11231,average
 2560,very low
@@ -2668,16 +2668,16 @@ id,popularity
 9668,very low
 6298,average
 14374,very low
-8964,high
+8964,very low
 9633,high
 7566,very low
-2735,high
+2735,very low
 3353,high
 12669,average
 11183,low
 12111,average
 2202,very low
-6662,low
+6662,average
 11132,low
 2346,average
 14030,very low
@@ -2692,21 +2692,21 @@ id,popularity
 13516,high
 1251,average
 7015,low
-238,low
+238,average
 2235,very low
 11610,average
 8841,high
-8287,average
+8287,low
 14134,very low
 15844,average
 9654,low
 4243,high
 7064,low
-9259,average
+9259,high
 6487,low
 2722,low
 7431,low
-11914,low
+11914,average
 6627,high
 9326,average
 3393,very low
@@ -2714,7 +2714,7 @@ id,popularity
 1407,low
 4836,high
 14023,low
-1047,low
+1047,very low
 14616,average
 13319,high
 13381,high
@@ -2725,14 +2725,14 @@ id,popularity
 1339,low
 5848,low
 302,very low
-11264,average
+11264,low
 8281,average
-1518,high
+1518,average
 10838,low
 11044,very low
 11808,average
 144,very low
-13052,average
+13052,low
 4305,low
 1208,average
 2720,average
@@ -2748,18 +2748,18 @@ id,popularity
 2757,very low
 14045,very low
 6693,very high
-2857,very high
+2857,high
 2204,low
 15783,high
 4718,average
-8967,average
+8967,low
 6569,average
 1702,very low
 3540,high
 2187,very low
 8919,very low
 5810,low
-14426,low
+14426,average
 9966,very low
 16127,high
 10646,very low
@@ -2778,7 +2778,7 @@ id,popularity
 10407,high
 11567,low
 4870,average
-4926,low
+4926,average
 15204,low
 4317,low
 9047,average
@@ -2791,7 +2791,7 @@ id,popularity
 11362,average
 10997,low
 14638,low
-15465,very high
+15465,high
 1151,high
 7496,very low
 8371,low
@@ -2801,16 +2801,16 @@ id,popularity
 15032,very low
 10958,high
 1074,very low
-10698,low
+10698,average
 11983,very low
 9373,very low
 6967,high
 4179,very high
 10226,average
 8188,very low
-5321,high
+5321,average
 3442,high
-13237,high
+13237,average
 14717,low
 3170,high
 13394,high
@@ -2820,7 +2820,7 @@ id,popularity
 11792,average
 2997,very low
 1468,very low
-10396,low
+10396,average
 7358,average
 8051,low
 128,average
@@ -2836,16 +2836,16 @@ id,popularity
 11905,low
 829,very high
 7615,low
-15320,very low
+15320,low
 7165,high
 1242,high
 10003,high
 14162,average
-304,high
+304,average
 2764,high
 15318,very low
-2011,low
-6088,high
+2011,average
+6088,very high
 10526,very low
 12080,low
 15638,low
@@ -2853,21 +2853,21 @@ id,popularity
 5149,high
 14817,high
 7567,high
-7364,very high
+7364,very low
 3124,very low
 10019,low
 8663,very low
 9016,average
 3988,high
 9032,high
-13696,high
+13696,average
 2607,low
 5806,low
 2983,low
 2540,low
 7784,low
-14892,very low
-16067,average
+14892,high
+16067,low
 11122,average
 14825,high
 13776,low
@@ -2876,22 +2876,22 @@ id,popularity
 3277,low
 15267,low
 9487,high
-14652,low
+14652,average
 1173,low
 16202,high
-3304,average
+3304,very low
 8211,high
 14175,high
-9720,low
+9720,average
 8384,high
 15184,very low
 5137,very low
 10541,average
-5639,high
+5639,average
 190,very low
 504,high
 1867,very low
-11019,average
+11019,high
 5266,low
 7340,average
 7882,very low
@@ -2902,8 +2902,8 @@ id,popularity
 11566,low
 7936,low
 11170,average
-4850,high
-9705,low
+4850,average
+9705,average
 3875,low
 3506,high
 9912,very low
@@ -2911,8 +2911,8 @@ id,popularity
 3149,average
 11532,very low
 15251,very low
-8873,low
-13298,low
+8873,very low
+13298,very low
 2970,high
 13087,very low
 12513,very low
@@ -2925,7 +2925,7 @@ id,popularity
 14695,average
 15003,high
 1673,high
-2289,low
+2289,average
 12459,average
 3582,average
 6883,low
@@ -2941,7 +2941,7 @@ id,popularity
 1264,high
 3252,low
 11539,average
-6819,low
+6819,average
 7953,average
 2568,very low
 9224,high
@@ -2949,7 +2949,7 @@ id,popularity
 6048,low
 12197,average
 489,low
-2066,low
+2066,average
 11119,very low
 10343,very low
 9510,average
@@ -2969,11 +2969,11 @@ id,popularity
 15384,low
 15647,low
 12149,average
-4195,low
+4195,average
 8042,low
 8039,average
 6127,low
-4603,low
+4603,average
 4109,average
 9782,low
 12126,low
@@ -2993,7 +2993,7 @@ id,popularity
 2230,low
 8811,low
 6287,high
-600,low
+600,average
 170,low
 10734,high
 2509,very low
@@ -3004,8 +3004,8 @@ id,popularity
 8871,high
 3121,very low
 2161,very low
-6522,low
-4413,very low
+6522,average
+4413,average
 6982,high
 1327,average
 11875,very low
@@ -3047,13 +3047,13 @@ id,popularity
 14262,very low
 4873,low
 3335,high
-975,low
-9589,low
+975,average
+9589,average
 1928,low
 2477,average
 7453,high
 4372,low
-3560,high
+3560,very low
 10492,very low
 10365,high
 16201,average
@@ -3074,7 +3074,7 @@ id,popularity
 1841,low
 4488,low
 13788,very low
-446,low
+446,average
 14962,average
 403,average
 2851,high
@@ -3094,11 +3094,11 @@ id,popularity
 3418,high
 9840,very low
 13537,very low
-9022,high
+9022,very high
 9773,very low
 6215,average
 5894,high
-747,average
+747,high
 1307,high
 9843,low
 14245,low
@@ -3111,14 +3111,14 @@ id,popularity
 12811,low
 495,low
 3812,low
-6007,average
+6007,low
 14923,low
 13400,average
 6351,very low
 14400,average
 15474,low
 5730,high
-8369,low
+8369,average
 13884,low
 13127,average
 4905,very low
@@ -3150,18 +3150,18 @@ id,popularity
 7722,very high
 11161,very low
 4457,low
-2754,low
+2754,very low
 8668,low
 2837,high
-13958,low
+13958,average
 11404,very low
 15250,very low
 9381,high
 1056,high
-8156,average
-2298,average
+8156,high
+2298,low
 6349,low
-7526,very low
+7526,low
 16022,high
 182,low
 11857,low
@@ -3185,7 +3185,7 @@ id,popularity
 4702,average
 7548,low
 7687,average
-12943,low
+12943,average
 7116,very low
 8961,low
 2379,very low
@@ -3211,7 +3211,7 @@ id,popularity
 8784,low
 14136,high
 3774,very low
-8043,low
+8043,average
 7988,average
 10232,average
 9807,very low
@@ -3232,8 +3232,8 @@ id,popularity
 7173,very low
 267,average
 9110,average
-6113,very high
-10640,average
+6113,very low
+10640,low
 2304,low
 11619,average
 13533,very low
@@ -3259,15 +3259,15 @@ id,popularity
 6463,high
 1110,low
 15544,very low
-14982,average
+14982,high
 12408,average
 14820,average
 14669,very low
 6995,very low
-6862,high
+6862,average
 12697,very low
 15016,average
-13896,high
+13896,very high
 11005,low
 11735,average
 3227,very high
@@ -3280,28 +3280,28 @@ id,popularity
 15051,low
 14407,low
 1122,low
-1501,average
+1501,low
 16129,high
 9485,low
 10518,very low
 2549,low
 3128,very low
-13059,low
+13059,average
 8175,low
-5495,low
+5495,average
 5646,very low
 9021,average
-9412,average
+9412,low
 10628,low
 5599,very low
 3707,very low
 10817,low
 989,low
-8791,average
+8791,low
 958,very low
 10895,average
 3587,high
-8755,average
+8755,high
 13723,very low
 11745,very low
 7458,average
@@ -3311,11 +3311,11 @@ id,popularity
 13735,very low
 11076,average
 2182,very low
-12487,low
+12487,average
 10560,high
 4955,very low
 8030,low
-5916,low
+5916,average
 10494,very low
 13853,low
 3989,low
@@ -3323,14 +3323,14 @@ id,popularity
 2229,very low
 4901,high
 10965,low
-11773,average
-10443,high
+11773,high
+10443,very high
 4720,average
 15940,low
 1730,average
 7329,high
 14284,average
-4054,very low
+4054,low
 6714,average
 7648,very low
 12971,average
@@ -3344,14 +3344,14 @@ id,popularity
 4544,average
 15694,very low
 7335,high
-3005,average
+3005,high
 4356,very low
 7991,high
 9559,very low
 6827,average
 4840,high
 13824,average
-7042,low
+7042,average
 9119,average
 8820,very low
 9749,very low
@@ -3373,34 +3373,34 @@ id,popularity
 15401,very low
 5260,low
 511,low
-11895,very high
+11895,high
 14761,low
 14602,average
 9936,average
 4719,low
-2006,low
+2006,average
 14128,average
-8824,low
+8824,very low
 3151,high
 13190,high
 379,very low
-3923,low
+3923,average
 15408,very low
 8705,low
 3518,very low
-2782,average
+2782,low
 1118,high
 6199,very low
 19,low
 10360,very low
-15856,average
+15856,low
 5355,average
 4332,low
 15670,very low
 647,average
 13560,average
 10416,average
-9851,low
+9851,average
 2024,average
 12472,average
 11033,high
@@ -3412,10 +3412,10 @@ id,popularity
 2169,low
 1454,very low
 1437,low
-6344,high
+6344,average
 10746,very low
 8471,very low
-13730,very low
+13730,low
 7230,average
 6589,average
 11225,average
@@ -3423,12 +3423,12 @@ id,popularity
 11865,average
 10613,high
 4767,high
-7346,low
+7346,very low
 8975,very low
-12823,average
+12823,very low
 6252,very low
 8288,low
-15494,low
+15494,average
 15941,very low
 13090,low
 9859,very low
@@ -3437,7 +3437,7 @@ id,popularity
 5198,low
 1345,high
 9348,low
-15811,very low
+15811,low
 194,low
 12289,low
 13020,average
@@ -3477,7 +3477,7 @@ id,popularity
 12724,very low
 4452,average
 4706,low
-4567,average
+4567,low
 4540,high
 8504,average
 2203,very low
@@ -3487,25 +3487,25 @@ id,popularity
 4115,average
 8886,average
 3255,low
-11768,average
+11768,low
 6240,high
 4972,low
 9264,low
 12226,high
-8739,average
+8739,low
 10723,high
 385,low
 4178,very low
 3796,low
-14207,very low
+14207,low
 3479,average
 9809,low
 12178,high
-10718,high
+10718,average
 2075,average
 3562,low
 8500,low
-15242,high
+15242,average
 9335,average
 3624,low
 14862,average
@@ -3514,7 +3514,7 @@ id,popularity
 11598,high
 4473,average
 15948,very low
-1401,average
+1401,high
 13860,high
 14559,high
 5211,very low
@@ -3535,7 +3535,7 @@ id,popularity
 10794,average
 8756,low
 5251,high
-9797,average
+9797,high
 9689,high
 11578,high
 2693,very low
@@ -3555,7 +3555,7 @@ id,popularity
 9515,very low
 2899,very low
 12469,very low
-3147,high
+3147,average
 11368,low
 13610,low
 11233,very low
@@ -3568,7 +3568,7 @@ id,popularity
 7830,low
 14479,low
 570,very low
-9869,low
+9869,average
 15611,average
 12049,very low
 9125,very high
@@ -3578,7 +3578,7 @@ id,popularity
 300,very low
 10738,very low
 6009,very low
-9387,average
+9387,low
 4331,low
 3939,average
 15633,average
@@ -3602,9 +3602,9 @@ id,popularity
 11061,high
 7738,very high
 868,average
-14806,very low
+14806,high
 8672,very low
-13308,average
+13308,low
 12527,very low
 5924,low
 9709,high
@@ -3613,7 +3613,7 @@ id,popularity
 12324,very low
 11227,very low
 8903,low
-2902,average
+2902,low
 14577,low
 1921,low
 3713,very low
@@ -3625,13 +3625,13 @@ id,popularity
 4045,low
 1366,high
 15753,average
-4697,low
+4697,average
 10605,low
 12112,very low
 14186,low
 9888,very low
 7324,very low
-13436,high
+13436,very low
 1434,low
 15819,very low
 3116,low
@@ -3643,14 +3643,14 @@ id,popularity
 14282,low
 12078,high
 11898,low
-14802,low
+14802,average
 10314,low
 4256,average
 4012,very low
 5275,low
 13124,very low
 2956,high
-12876,very high
+12876,high
 5787,low
 5735,average
 6369,high
@@ -3659,11 +3659,11 @@ id,popularity
 11171,high
 4175,high
 7044,very low
-11544,low
+11544,very low
 1044,low
 4212,average
 5727,very low
-12676,very high
+12676,very low
 5056,average
 6008,very low
 10712,high
@@ -3676,10 +3676,10 @@ id,popularity
 8994,low
 5943,very low
 14140,average
-14894,low
-13318,average
+14894,average
+13318,high
 11728,very low
-7290,low
+7290,average
 6066,low
 12225,average
 14183,high
@@ -3690,7 +3690,7 @@ id,popularity
 7037,high
 16052,very low
 11785,average
-10593,low
+10593,average
 14210,high
 548,very high
 5319,average
@@ -3703,7 +3703,7 @@ id,popularity
 1874,low
 7399,high
 3905,low
-16173,low
+16173,average
 6227,average
 8885,very low
 11542,low
@@ -3724,7 +3724,7 @@ id,popularity
 15773,low
 12346,low
 14264,very low
-9844,very low
+9844,low
 9423,low
 15334,high
 4233,low
@@ -3733,7 +3733,7 @@ id,popularity
 12808,average
 6502,low
 9095,low
-6785,low
+6785,average
 5990,very low
 11765,average
 1481,high
@@ -3748,7 +3748,7 @@ id,popularity
 15022,very low
 10753,average
 8079,low
-13234,average
+13234,high
 990,average
 15150,average
 7368,very low
@@ -3756,7 +3756,7 @@ id,popularity
 16180,low
 3833,low
 15037,low
-3744,average
+3744,low
 4385,average
 14252,low
 3464,low
@@ -3768,7 +3768,7 @@ id,popularity
 6843,low
 11100,average
 2490,very low
-10998,very low
+10998,low
 1546,very low
 10258,high
 7052,low
@@ -3787,30 +3787,30 @@ id,popularity
 13611,low
 4203,very low
 14142,low
-8201,high
+8201,average
 5927,average
-9774,average
+9774,very low
 8642,average
 9909,average
 13530,low
 5103,average
-9657,average
+9657,very low
 6208,low
-641,high
+641,average
 12304,low
 14810,average
 12592,low
 846,very low
-14605,average
+14605,low
 15626,high
-15730,very low
+15730,low
 2545,very low
 12401,very low
 4424,average
 3752,low
 10482,very low
-4515,very low
-15990,very low
+4515,low
+15990,low
 15654,low
 8992,very low
 6446,high
@@ -3829,10 +3829,10 @@ id,popularity
 12221,very low
 4134,high
 12601,very low
-8963,low
+8963,average
 15043,average
 3258,very low
-15942,average
+15942,low
 5663,very high
 6737,low
 12537,very low
@@ -3857,9 +3857,9 @@ id,popularity
 14002,low
 2276,very low
 4593,high
-675,low
+675,average
 13185,very low
-10379,very low
+10379,low
 7228,very low
 460,very low
 1002,average
@@ -3869,7 +3869,7 @@ id,popularity
 14558,very low
 4094,average
 10968,high
-799,very high
+799,high
 1689,low
 1216,very low
 11034,very low
@@ -3881,7 +3881,7 @@ id,popularity
 9566,very low
 11968,very low
 5452,low
-4606,low
+4606,average
 2287,average
 3822,low
 12632,high
@@ -3894,7 +3894,7 @@ id,popularity
 1415,low
 272,very low
 1201,very low
-356,average
+356,very low
 14106,average
 4276,low
 4064,high
@@ -3906,7 +3906,7 @@ id,popularity
 4588,high
 2957,very low
 257,low
-3414,low
+3414,average
 7629,average
 5119,low
 8832,high
@@ -3926,10 +3926,10 @@ id,popularity
 11272,very low
 9090,average
 11924,very low
-802,low
+802,average
 8648,very low
 9481,very low
-9952,average
+9952,high
 4436,average
 5189,very low
 3691,low
@@ -3953,7 +3953,7 @@ id,popularity
 12830,high
 4272,low
 9605,low
-269,very high
+269,high
 14515,low
 14453,low
 7313,high
@@ -3968,27 +3968,27 @@ id,popularity
 12442,high
 11843,average
 16107,very low
-4185,low
+4185,average
 6840,low
-9383,low
+9383,average
 2101,very low
-5763,low
+5763,average
 15296,high
 15995,average
 4410,very low
-15591,low
-375,high
+15591,average
+375,average
 15515,average
 4173,low
 1638,average
 5708,very low
 2476,very low
 3058,very low
-901,high
+901,very low
 13153,average
 11784,high
 7216,high
-15624,very low
+15624,low
 1394,low
 13327,very low
 10881,low
